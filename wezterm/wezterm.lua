@@ -6,6 +6,7 @@ local config = {
   use_fancy_tab_bar = false,
   tab_bar_at_bottom = true,
   adjust_window_size_when_changing_font_size = false,
+  window_background_opacity = 0.95,
   enable_scroll_bar = true,
   default_prog = { 'powershell.exe', '-NoLogo' },
   scrollback_lines = 10000,
