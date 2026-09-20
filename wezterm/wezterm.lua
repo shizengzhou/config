@@ -4,6 +4,7 @@ local config = {
   font_size = 13,
   color_scheme = 'Catppuccin Mocha',
   use_fancy_tab_bar = false,
+  hide_tab_bar_if_only_one_tab = true,
   tab_bar_at_bottom = true,
   adjust_window_size_when_changing_font_size = false,
   window_background_opacity = 0.95,
